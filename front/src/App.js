@@ -10,6 +10,7 @@ function App() {
         <Heading className="App-header">
           <Heading>Datos desde la Base de Datos</Heading>
           <DataDisplay />
+          <DataDisplay />
         </Heading>
     </div>
 );
